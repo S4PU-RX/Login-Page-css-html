@@ -11,5 +11,7 @@ The page consists of a login page feature with:
 
 ##Note: Since this project only use CSS and HTML, the links and forms are not functional!
 
--Autor: **S4PU-RX** - [Github profile](https://github.com/S4PU-RX)
+* [Click here to view the live project](https://s4pu-rx.github.io/Login-Page-css-html/)
+
+- Autor: **S4PU-RX** - [Github profile](https://github.com/S4PU-RX)
 
