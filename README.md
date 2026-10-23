@@ -2,7 +2,7 @@
 #A simple login page for a site built using CSS and HTML
 
 ##About the project:
-The projec's objective is improve my css and html skills. For achieve this, I used a video from youtube to guide me and i did some changes to make it more personal.
+The project's objective is improve my css and html skills. For achieve this, I used a video from youtube to guide me and i did some changes to make it more personal.
 The page consists of a login page feature with:
 - A main title
 - Forms to submit email and password 
